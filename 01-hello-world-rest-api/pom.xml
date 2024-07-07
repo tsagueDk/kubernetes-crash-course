@@ -68,9 +68,9 @@
 					</execution>
 				</executions>
 				<configuration>
-					<repository>in28min/${project.name}</repository>
+					<repository>kevdok/kevineasy</repository>
 					<tag>${project.version}</tag>
-					<skipDockerInfo>true</skipDockerInfo>
+<!--					<skipDockerInfo>true</skipDockerInfo>-->
 				</configuration>
 			</plugin>
 
